@@ -1,0 +1,852 @@
+     //==================================\\
+     ||                                  ||
+     || ::::::: ::::::. ::::::. .::::::. ||
+     || ::      ::    : ::    : ::       ||
+     || ::::::  ::    : ::::::'  `:::::. ||
+     || ::      ::::::' ::      `......' ||
+     ||     Framework for Developing     ||
+     ||        Particle Simulator        ||
+     ||     Version 2.0 (2016/06)        ||
+     \\==================================//     //==================================\\     //==================================\\     //==================================\\
+
+       Home   : https://github.com/fdps/fdps 
+       E-mail : fdps-support@mail.jmlab.jp
+       Licence: MIT (see, https://github.com/FDPS/FDPS/blob/master/LICENSE)
+       Note   : Please cite Iwasawa et al. (in press.)
+
+     ||                                  ||
+     || ::::::: ::::::. ::::::. .::::::. ||
+     || ::      ::    : ::    : ::       ||
+     || ::::::  ::    : ::::::'  `:::::. ||
+     || ::      ::::::' ::      `......' ||
+
+     ||                                  ||
+     || ::::::: ::::::. ::::::. .::::::. ||
+     || ::      ::    : ::    : ::       ||
+     || ::::::  ::    : ::::::'  `:::::. ||
+     || ::      ::::::' ::      `......' ||
+     ||     Framework for Developing     ||
+     ||        Particle Simulator        ||
+
+     ||                                  ||
+     || ::::::: ::::::. ::::::. .::::::. ||
+     || ::      ::    : ::    : ::       ||
+     || ::::::  ::    : ::::::'  `:::::. ||
+     || ::      ::::::' ::      `......' ||
+     ||     Framework for Developing     ||
+     ||        Particle Simulator        ||
+       Copyright (C) 2015 
+         Masaki Iwasawa, Ataru Tanikawa, Natsuki Hosono,
+         Keigo Nitadori, Takayuki Muranushi, Daisuke Namekata
+         Junichiro Makino and many others
+******** FDPS has successfully begun. ********
+     ||     Framework for Developing     ||
+     ||     Version 2.0 (2016/06)        ||
+
+     ||     Version 2.0 (2016/06)        ||
+     \\==================================//
+
+       Home   : https://github.com/fdps/fdps 
+       E-mail : fdps-support@mail.jmlab.jp
+     ||        Particle Simulator        ||
+     ||     Version 2.0 (2016/06)        ||
+     \\==================================//
+
+       Home   : https://github.com/fdps/fdps 
+       E-mail : fdps-support@mail.jmlab.jp
+       Licence: MIT (see, https://github.com/FDPS/FDPS/blob/master/LICENSE)
+       Note   : Please cite Iwasawa et al. (in press.)
+     \\==================================//
+
+       Home   : https://github.com/fdps/fdps        Licence: MIT (see, https://github.com/FDPS/FDPS/blob/master/LICENSE)
+       Note   : Please cite Iwasawa et al. (in press.)
+
+       Copyright (C) 2015 
+         Masaki Iwasawa, Ataru Tanikawa, Natsuki Hosono,
+         Keigo Nitadori, Takayuki Muranushi, Daisuke Namekata
+         Junichiro Makino and many others
+******** FDPS has successfully begun. ********
+
+       Copyright (C) 2015 
+         Masaki Iwasawa, Ataru Tanikawa, Natsuki Hosono,
+         Keigo Nitadori, Takayuki Muranushi, Daisuke Namekata
+         Junichiro Makino and many others
+******** FDPS has successfully begun. ********
+
+       E-mail : fdps-support@mail.jmlab.jp
+       Licence: MIT (see, https://github.com/FDPS/FDPS/blob/master/LICENSE)
+       Note   : Please cite Iwasawa et al. (in press.)
+
+       Copyright (C) 2015 
+         Masaki Iwasawa, Ataru Tanikawa, Natsuki Hosono,
+         Keigo Nitadori, Takayuki Muranushi, Daisuke Namekata
+         Junichiro Makino and many others
+******** FDPS has successfully begun. ********
+Directory "./result" is successfully made.
+Directory "./result" is successfully made.
+Directory "./result" is successfully made.
+np_ave=1024
+np_ave=np_ave=10241024
+
+np_ave=1024
+This is a sample program of N-body simulation on FDPS!
+Number of processes: 1
+Number of threads per process: 1
+This is a sample program of N-body simulation on FDPS!
+This is a sample program of N-body simulation on FDPS!
+Number of processes: 1
+Number of threads per process: 1
+Number of processes: 1
+Number of threads per process: 1
+This is a sample program of N-body simulation on FDPS!
+Number of processes: 1
+Number of threads per process: 1
+time:  0.0000000 energy error: -0.000000e+00
+time:  0.0000000 energy error: -0.000000e+00
+time:  0.0000000 energy error: -0.000000e+00
+time:  0.0000000 energy error: -0.000000e+00
+     //==================================\\     //==================================\\     //==================================\\
+     ||                                  ||
+     || ::::::: ::::::. ::::::. .::::::. ||
+     || ::      ::    : ::    : ::       ||
+     || ::::::  ::    : ::::::'  `:::::. ||
+     || ::      ::::::' ::      `......' ||
+     //==================================\\
+     ||                                  ||
+     || ::::::: ::::::. ::::::. .::::::. ||
+     || ::      ::    : ::    : ::       ||
+     || ::::::  ::    : ::::::'  `:::::. ||
+     || ::      ::::::' ::      `......' ||
+     ||     Framework for Developing     ||
+     ||        Particle Simulator        ||
+     ||     Version 2.0 (2016/06)        ||
+     \\==================================//
+
+       Home   : https://github.com/fdps/fdps 
+       E-mail : fdps-support@mail.jmlab.jp
+       Licence: MIT (see, https://github.com/FDPS/FDPS/blob/master/LICENSE)
+       Note   : Please cite Iwasawa et al. (in press.)
+
+       Copyright (C) 2015 
+         Masaki Iwasawa, Ataru Tanikawa, Natsuki Hosono,
+         Keigo Nitadori, Takayuki Muranushi, Daisuke Namekata
+         Junichiro Makino and many others
+******** FDPS has successfully begun. ********
+
+     ||                                  ||
+     || ::::::: ::::::. ::::::. .::::::. ||
+     || ::      ::    : ::    : ::       ||
+     || ::::::  ::    : ::::::'  `:::::. ||
+     || ::      ::::::' ::      `......' ||
+     ||     Framework for Developing     ||
+     ||        Particle Simulator        ||
+
+     ||                                  ||
+     || ::::::: ::::::. ::::::. .::::::. ||
+     || ::      ::    : ::    : ::       ||
+     || ::::::  ::    : ::::::'  `:::::. ||
+     || ::      ::::::' ::      `......' ||
+     ||     Framework for Developing     ||
+     ||        Particle Simulator        ||
+     ||     Version 2.0 (2016/06)        ||     ||     Framework for Developing     ||
+     ||        Particle Simulator        ||
+     ||     Version 2.0 (2016/06)        ||
+     \\==================================//
+
+       Home   : https://github.com/fdps/fdps 
+       E-mail : fdps-support@mail.jmlab.jp
+       Licence: MIT (see, https://github.com/FDPS/FDPS/blob/master/LICENSE)
+       Note   : Please cite Iwasawa et al. (in press.)
+
+     ||     Version 2.0 (2016/06)        ||
+
+     \\==================================//
+
+       Home   : https://github.com/fdps/fdps        Copyright (C) 2015 
+         Masaki Iwasawa, Ataru Tanikawa, Natsuki Hosono,
+         Keigo Nitadori, Takayuki Muranushi, Daisuke Namekata
+         Junichiro Makino and many others
+******** FDPS has successfully begun. ********
+     \\==================================//
+
+       Home   : https://github.com/fdps/fdps 
+       E-mail : fdps-support@mail.jmlab.jp
+       Licence: MIT (see, https://github.com/FDPS/FDPS/blob/master/LICENSE)
+       Note   : Please cite Iwasawa et al. (in press.)
+
+       Copyright (C) 2015 
+         Masaki Iwasawa, Ataru Tanikawa, Natsuki Hosono,
+         Keigo Nitadori, Takayuki Muranushi, Daisuke Namekata
+         Junichiro Makino and many others
+******** FDPS has successfully begun. ********
+
+       E-mail : fdps-support@mail.jmlab.jp
+       Licence: MIT (see, https://github.com/FDPS/FDPS/blob/master/LICENSE)
+       Note   : Please cite Iwasawa et al. (in press.)
+
+       Copyright (C) 2015 
+         Masaki Iwasawa, Ataru Tanikawa, Natsuki Hosono,
+         Keigo Nitadori, Takayuki Muranushi, Daisuke Namekata
+         Junichiro Makino and many others
+******** FDPS has successfully begun. ********
+np_ave=1024
+np_ave=1024
+np_ave=1024
+np_ave=1024
+This is a sample program of N-body simulation on FDPS!
+Number of processes: 1
+Number of threads per process: 1
+This is a sample program of N-body simulation on FDPS!
+Number of processes: 1
+Number of threads per process: 1
+This is a sample program of N-body simulation on FDPS!
+Number of processes: 1
+Number of threads per process: 1
+This is a sample program of N-body simulation on FDPS!
+Number of processes: 1
+Number of threads per process: 1
+time:  0.0000000 energy error: -0.000000e+00
+time:  0.0000000 energy error: -0.000000e+00
+time:  0.0000000 energy error: -0.000000e+00
+time:  0.0000000 energy error: -0.000000e+00
+time:  0.1250000 energy error: +2.555785e-07
+time:  0.1250000 energy error: +2.555785e-07
+time:  0.1250000 energy error: +2.555785e-07
+time:  0.1250000 energy error: +2.555785e-07
+time:  0.1250000 energy error: +2.555785e-07
+time:  0.1250000 energy error: +2.555785e-07
+time:  0.1250000 energy error: +2.555785e-07
+time:  0.1250000 energy error: +2.555785e-07
+time:  0.2500000 energy error: -6.053152e-06
+time:  0.2500000 energy error: -6.053152e-06
+time:  0.2500000 energy error: -6.053152e-06
+time:  0.2500000 energy error: -6.053152e-06
+time:  0.2500000 energy error: -6.053152e-06
+time:  0.2500000 energy error: -6.053152e-06
+time:  0.2500000 energy error: -6.053152e-06
+time:  0.2500000 energy error: -6.053152e-06
+time:  0.3750000 energy error: -7.828394e-06
+time:  0.3750000 energy error: -7.828394e-06
+time:  0.3750000 energy error: -7.828394e-06
+time:  0.3750000 energy error: -7.828394e-06
+time:  0.3750000 energy error: -7.828394e-06
+time:  0.3750000 energy error: -7.828394e-06
+time:  0.3750000 energy error: -7.828394e-06
+time:  0.3750000 energy error: -7.828394e-06
+time:  0.5000000 energy error: +2.055522e-06
+time:  0.5000000 energy error: +2.055522e-06
+time:  0.5000000 energy error: +2.055522e-06
+time:  0.5000000 energy error: +2.055522e-06
+time:  0.5000000 energy error: +2.055522e-06
+time:  0.5000000 energy error: +2.055522e-06
+time:  0.5000000 energy error: +2.055522e-06
+time:  0.5000000 energy error: +2.055522e-06
+time:  0.6250000 energy error: -4.590625e-06
+time:  0.6250000 energy error: -4.590625e-06
+time:  0.6250000 energy error: -4.590625e-06
+time:  0.6250000 energy error: -4.590625e-06
+time:  0.6250000 energy error: -4.590625e-06
+time:  0.6250000 energy error: -4.590625e-06
+time:  0.6250000 energy error: -4.590625e-06
+time:  0.6250000 energy error: -4.590625e-06
+time:  0.7500000 energy error: -1.524005e-05
+time:  0.7500000 energy error: -1.524005e-05
+time:  0.7500000 energy error: -1.524005e-05
+time:  0.7500000 energy error: -1.524005e-05
+time:  0.7500000 energy error: -1.524005e-05
+time:  0.7500000 energy error: -1.524005e-05
+time:  0.7500000 energy error: -1.524005e-05
+time:  0.7500000 energy error: -1.524005e-05
+time:  0.8750000 energy error: -1.738934e-05
+time:  0.8750000 energy error: -1.738934e-05
+time:  0.8750000 energy error: -1.738934e-05
+time:  0.8750000 energy error: -1.738934e-05
+time:  0.8750000 energy error: -1.738934e-05
+time:  0.8750000 energy error: -1.738934e-05
+time:  0.8750000 energy error: -1.738934e-05
+time:  0.8750000 energy error: -1.738934e-05
+time:  1.0000000 energy error: -4.722487e-05
+time:  1.0000000 energy error: -4.722487e-05
+time:  1.0000000 energy error: -4.722487e-05
+time:  1.0000000 energy error: -4.722487e-05
+time:  1.0000000 energy error: -4.722487e-05
+time:  1.0000000 energy error: -4.722487e-05
+time:  1.0000000 energy error: -4.722487e-05
+time:  1.0000000 energy error: -4.722487e-05
+time:  1.1250000 energy error: -3.516700e-05
+time:  1.1250000 energy error: -3.516700e-05
+time:  1.1250000 energy error: -3.516700e-05
+time:  1.1250000 energy error: -3.516700e-05
+time:  1.1250000 energy error: -3.516700e-05
+time:  1.1250000 energy error: -3.516700e-05
+time:  1.1250000 energy error: -3.516700e-05
+time:  1.1250000 energy error: -3.516700e-05
+time:  1.2500000 energy error: -4.506501e-05
+time:  1.2500000 energy error: -4.506501e-05
+time:  1.2500000 energy error: -4.506501e-05
+time:  1.2500000 energy error: -4.506501e-05
+time:  1.2500000 energy error: -4.506501e-05
+time:  1.2500000 energy error: -4.506501e-05
+time:  1.2500000 energy error: -4.506501e-05
+time:  1.2500000 energy error: -4.506501e-05
+time:  1.3750000 energy error: -5.595820e-05
+time:  1.3750000 energy error: -5.595820e-05
+time:  1.3750000 energy error: -5.595820e-05
+time:  1.3750000 energy error: -5.595820e-05
+time:  1.3750000 energy error: -5.595820e-05
+time:  1.3750000 energy error: -5.595820e-05
+time:  1.3750000 energy error: -5.595820e-05
+time:  1.3750000 energy error: -5.595820e-05
+time:  1.5000000 energy error: -7.042126e-05
+time:  1.5000000 energy error: -7.042126e-05
+time:  1.5000000 energy error: -7.042126e-05
+time:  1.5000000 energy error: -7.042126e-05
+time:  1.5000000 energy error: -7.042126e-05
+time:  1.5000000 energy error: -7.042126e-05
+time:  1.5000000 energy error: -7.042126e-05
+time:  1.5000000 energy error: -7.042126e-05
+time:  1.6250000 energy error: -7.182635e-05
+time:  1.6250000 energy error: -7.182635e-05
+time:  1.6250000 energy error: -7.182635e-05
+time:  1.6250000 energy error: -7.182635e-05
+time:  1.6250000 energy error: -7.182635e-05
+time:  1.6250000 energy error: -7.182635e-05
+time:  1.6250000 energy error: -7.182635e-05
+time:  1.6250000 energy error: -7.182635e-05
+time:  1.7500000 energy error: -7.957588e-05
+time:  1.7500000 energy error: -7.957588e-05
+time:  1.7500000 energy error: -7.957588e-05
+time:  1.7500000 energy error: -7.957588e-05
+time:  1.7500000 energy error: -7.957588e-05
+time:  1.7500000 energy error: -7.957588e-05
+time:  1.7500000 energy error: -7.957588e-05
+time:  1.7500000 energy error: -7.957588e-05
+time:  1.8750000 energy error: -9.558741e-05
+time:  1.8750000 energy error: -9.558741e-05
+time:  1.8750000 energy error: -9.558741e-05
+time:  1.8750000 energy error: -9.558741e-05
+time:  1.8750000 energy error: -9.558741e-05
+time:  1.8750000 energy error: -9.558741e-05
+time:  1.8750000 energy error: -9.558741e-05
+time:  1.8750000 energy error: -9.558741e-05
+time:  2.0000000 energy error: -1.024812e-04
+time:  2.0000000 energy error: -1.024812e-04
+time:  2.0000000 energy error: -1.024812e-04
+time:  2.0000000 energy error: -1.024812e-04
+time:  2.0000000 energy error: -1.024812e-04
+time:  2.0000000 energy error: -1.024812e-04
+time:  2.0000000 energy error: -1.024812e-04
+time:  2.0000000 energy error: -1.024812e-04
+time:  2.1250000 energy error: -1.137448e-04
+time:  2.1250000 energy error: -1.137448e-04
+time:  2.1250000 energy error: -1.137448e-04
+time:  2.1250000 energy error: -1.137448e-04
+time:  2.1250000 energy error: -1.137448e-04
+time:  2.1250000 energy error: -1.137448e-04
+time:  2.1250000 energy error: -1.137448e-04
+time:  2.1250000 energy error: -1.137448e-04
+time:  2.2500000 energy error: -1.319137e-04
+time:  2.2500000 energy error: -1.319137e-04
+time:  2.2500000 energy error: -1.319137e-04
+time:  2.2500000 energy error: -1.319137e-04
+time:  2.2500000 energy error: -1.319137e-04
+time:  2.2500000 energy error: -1.319137e-04
+time:  2.2500000 energy error: -1.319137e-04
+time:  2.2500000 energy error: -1.319137e-04
+time:  2.3750000 energy error: -1.383877e-04
+time:  2.3750000 energy error: -1.383877e-04
+time:  2.3750000 energy error: -1.383877e-04
+time:  2.3750000 energy error: -1.383877e-04
+time:  2.3750000 energy error: -1.383877e-04
+time:  2.3750000 energy error: -1.383877e-04
+time:  2.3750000 energy error: -1.383877e-04
+time:  2.3750000 energy error: -1.383877e-04
+time:  2.5000000 energy error: -1.501148e-04
+time:  2.5000000 energy error: -1.501148e-04
+time:  2.5000000 energy error: -1.501148e-04
+time:  2.5000000 energy error: -1.501148e-04
+time:  2.5000000 energy error: -1.501148e-04
+time:  2.5000000 energy error: -1.501148e-04
+time:  2.5000000 energy error: -1.501148e-04
+time:  2.5000000 energy error: -1.501148e-04
+time:  2.6250000 energy error: -1.699889e-04
+time:  2.6250000 energy error: -1.699889e-04
+time:  2.6250000 energy error: -1.699889e-04
+time:  2.6250000 energy error: -1.699889e-04
+time:  2.6250000 energy error: -1.699889e-04
+time:  2.6250000 energy error: -1.699889e-04
+time:  2.6250000 energy error: -1.699889e-04
+time:  2.6250000 energy error: -1.699889e-04
+time:  2.7500000 energy error: -1.855339e-04
+time:  2.7500000 energy error: -1.855339e-04
+time:  2.7500000 energy error: -1.855339e-04
+time:  2.7500000 energy error: -1.855339e-04
+time:  2.7500000 energy error: -1.855339e-04
+time:  2.7500000 energy error: -1.855339e-04
+time:  2.7500000 energy error: -1.855339e-04
+time:  2.7500000 energy error: -1.855339e-04
+time:  2.8750000 energy error: -1.981274e-04
+time:  2.8750000 energy error: -1.981274e-04
+time:  2.8750000 energy error: -1.981274e-04
+time:  2.8750000 energy error: -1.981274e-04
+time:  2.8750000 energy error: -1.981274e-04
+time:  2.8750000 energy error: -1.981274e-04
+time:  2.8750000 energy error: -1.981274e-04
+time:  2.8750000 energy error: -1.981274e-04
+time:  3.0000000 energy error: -2.121467e-04
+time:  3.0000000 energy error: -2.121467e-04
+time:  3.0000000 energy error: -2.121467e-04
+time:  3.0000000 energy error: -2.121467e-04
+time:  3.0000000 energy error: -2.121467e-04
+time:  3.0000000 energy error: -2.121467e-04
+time:  3.0000000 energy error: -2.121467e-04
+time:  3.0000000 energy error: -2.121467e-04
+time:  3.1250000 energy error: -2.173102e-04
+time:  3.1250000 energy error: -2.173102e-04
+time:  3.1250000 energy error: -2.173102e-04
+time:  3.1250000 energy error: -2.173102e-04
+time:  3.1250000 energy error: -2.173102e-04
+time:  3.1250000 energy error: -2.173102e-04
+time:  3.1250000 energy error: -2.173102e-04
+time:  3.1250000 energy error: -2.173102e-04
+time:  3.2500000 energy error: -2.413547e-04
+time:  3.2500000 energy error: -2.413547e-04
+time:  3.2500000 energy error: -2.413547e-04
+time:  3.2500000 energy error: -2.413547e-04
+time:  3.2500000 energy error: -2.413547e-04
+time:  3.2500000 energy error: -2.413547e-04
+time:  3.2500000 energy error: -2.413547e-04
+time:  3.2500000 energy error: -2.413547e-04
+time:  3.3750000 energy error: -2.846113e-04
+time:  3.3750000 energy error: -2.846113e-04
+time:  3.3750000 energy error: -2.846113e-04
+time:  3.3750000 energy error: -2.846113e-04
+time:  3.3750000 energy error: -2.846113e-04
+time:  3.3750000 energy error: -2.846113e-04
+time:  3.3750000 energy error: -2.846113e-04
+time:  3.3750000 energy error: -2.846113e-04
+time:  3.5000000 energy error: -3.320706e-04
+time:  3.5000000 energy error: -3.320706e-04
+time:  3.5000000 energy error: -3.320706e-04
+time:  3.5000000 energy error: -3.320706e-04
+time:  3.5000000 energy error: -3.320706e-04
+time:  3.5000000 energy error: -3.320706e-04
+time:  3.5000000 energy error: -3.320706e-04
+time:  3.5000000 energy error: -3.320706e-04
+time:  3.6250000 energy error: -3.646396e-04
+time:  3.6250000 energy error: -3.646396e-04
+time:  3.6250000 energy error: -3.646396e-04
+time:  3.6250000 energy error: -3.646396e-04
+time:  3.6250000 energy error: -3.646396e-04
+time:  3.6250000 energy error: -3.646396e-04
+time:  3.6250000 energy error: -3.646396e-04
+time:  3.6250000 energy error: -3.646396e-04
+time:  3.7500000 energy error: -4.195620e-04
+time:  3.7500000 energy error: -4.195620e-04
+time:  3.7500000 energy error: -4.195620e-04
+time:  3.7500000 energy error: -4.195620e-04
+time:  3.7500000 energy error: -4.195620e-04
+time:  3.7500000 energy error: -4.195620e-04
+time:  3.7500000 energy error: -4.195620e-04
+time:  3.7500000 energy error: -4.195620e-04
+time:  3.8750000 energy error: -4.917553e-04
+time:  3.8750000 energy error: -4.917553e-04
+time:  3.8750000 energy error: -4.917553e-04
+time:  3.8750000 energy error: -4.917553e-04
+time:  3.8750000 energy error: -4.917553e-04
+time:  3.8750000 energy error: -4.917553e-04
+time:  3.8750000 energy error: -4.917553e-04
+time:  3.8750000 energy error: -4.917553e-04
+time:  4.0000000 energy error: -5.857409e-04
+time:  4.0000000 energy error: -5.857409e-04
+time:  4.0000000 energy error: -5.857409e-04
+time:  4.0000000 energy error: -5.857409e-04
+time:  4.0000000 energy error: -5.857409e-04
+time:  4.0000000 energy error: -5.857409e-04
+time:  4.0000000 energy error: -5.857409e-04
+time:  4.0000000 energy error: -5.857409e-04
+time:  4.1250000 energy error: -6.588065e-04
+time:  4.1250000 energy error: -6.588065e-04
+time:  4.1250000 energy error: -6.588065e-04
+time:  4.1250000 energy error: -6.588065e-04
+time:  4.1250000 energy error: -6.588065e-04
+time:  4.1250000 energy error: -6.588065e-04
+time:  4.1250000 energy error: -6.588065e-04
+time:  4.1250000 energy error: -6.588065e-04
+time:  4.2500000 energy error: -7.284764e-04
+time:  4.2500000 energy error: -7.284764e-04
+time:  4.2500000 energy error: -7.284764e-04
+time:  4.2500000 energy error: -7.284764e-04
+time:  4.2500000 energy error: -7.284764e-04
+time:  4.2500000 energy error: -7.284764e-04
+time:  4.2500000 energy error: -7.284764e-04
+time:  4.2500000 energy error: -7.284764e-04
+time:  4.3750000 energy error: -7.588934e-04
+time:  4.3750000 energy error: -7.588934e-04
+time:  4.3750000 energy error: -7.588934e-04
+time:  4.3750000 energy error: -7.588934e-04
+time:  4.3750000 energy error: -7.588934e-04
+time:  4.3750000 energy error: -7.588934e-04
+time:  4.3750000 energy error: -7.588934e-04
+time:  4.3750000 energy error: -7.588934e-04
+time:  4.5000000 energy error: -9.038097e-04
+time:  4.5000000 energy error: -9.038097e-04
+time:  4.5000000 energy error: -9.038097e-04
+time:  4.5000000 energy error: -9.038097e-04
+time:  4.5000000 energy error: -9.038097e-04
+time:  4.5000000 energy error: -9.038097e-04
+time:  4.5000000 energy error: -9.038097e-04
+time:  4.5000000 energy error: -9.038097e-04
+time:  4.6250000 energy error: -9.913088e-04
+time:  4.6250000 energy error: -9.913088e-04
+time:  4.6250000 energy error: -9.913088e-04
+time:  4.6250000 energy error: -9.913088e-04
+time:  4.6250000 energy error: -9.913088e-04
+time:  4.6250000 energy error: -9.913088e-04
+time:  4.6250000 energy error: -9.913088e-04
+time:  4.6250000 energy error: -9.913088e-04
+time:  4.7500000 energy error: -1.213441e-03
+time:  4.7500000 energy error: -1.213441e-03
+time:  4.7500000 energy error: -1.213441e-03
+time:  4.7500000 energy error: -1.213441e-03
+time:  4.7500000 energy error: -1.213441e-03
+time:  4.7500000 energy error: -1.213441e-03
+time:  4.7500000 energy error: -1.213441e-03
+time:  4.7500000 energy error: -1.213441e-03
+time:  4.8750000 energy error: -1.282843e-03
+time:  4.8750000 energy error: -1.282843e-03
+time:  4.8750000 energy error: -1.282843e-03
+time:  4.8750000 energy error: -1.282843e-03
+time:  4.8750000 energy error: -1.282843e-03
+time:  4.8750000 energy error: -1.282843e-03
+time:  4.8750000 energy error: -1.282843e-03
+time:  4.8750000 energy error: -1.282843e-03
+time:  5.0000000 energy error: -1.526575e-03
+time:  5.0000000 energy error: -1.526575e-03
+time:  5.0000000 energy error: -1.526575e-03
+time:  5.0000000 energy error: -1.526575e-03
+time:  5.0000000 energy error: -1.526575e-03
+time:  5.0000000 energy error: -1.526575e-03
+time:  5.0000000 energy error: -1.526575e-03
+time:  5.0000000 energy error: -1.526575e-03
+time:  5.1250000 energy error: -1.637708e-03
+time:  5.1250000 energy error: -1.637708e-03
+time:  5.1250000 energy error: -1.637708e-03
+time:  5.1250000 energy error: -1.637708e-03
+time:  5.1250000 energy error: -1.637708e-03
+time:  5.1250000 energy error: -1.637708e-03
+time:  5.1250000 energy error: -1.637708e-03
+time:  5.1250000 energy error: -1.637708e-03
+time:  5.2500000 energy error: -1.693112e-03
+time:  5.2500000 energy error: -1.693112e-03
+time:  5.2500000 energy error: -1.693112e-03
+time:  5.2500000 energy error: -1.693112e-03
+time:  5.2500000 energy error: -1.693112e-03
+time:  5.2500000 energy error: -1.693112e-03
+time:  5.2500000 energy error: -1.693112e-03
+time:  5.2500000 energy error: -1.693112e-03
+time:  5.3750000 energy error: -2.051659e-03
+time:  5.3750000 energy error: -2.051659e-03
+time:  5.3750000 energy error: -2.051659e-03
+time:  5.3750000 energy error: -2.051659e-03
+time:  5.3750000 energy error: -2.051659e-03
+time:  5.3750000 energy error: -2.051659e-03
+time:  5.3750000 energy error: -2.051659e-03
+time:  5.3750000 energy error: -2.051659e-03
+time:  5.5000000 energy error: -2.913345e-03
+time:  5.5000000 energy error: -2.913345e-03
+time:  5.5000000 energy error: -2.913345e-03
+time:  5.5000000 energy error: -2.913345e-03
+time:  5.5000000 energy error: -2.913345e-03
+time:  5.5000000 energy error: -2.913345e-03
+time:  5.5000000 energy error: -2.913345e-03
+time:  5.5000000 energy error: -2.913345e-03
+time:  5.6250000 energy error: -3.783513e-03
+time:  5.6250000 energy error: -3.783513e-03
+time:  5.6250000 energy error: -3.783513e-03
+time:  5.6250000 energy error: -3.783513e-03
+time:  5.6250000 energy error: -3.783513e-03
+time:  5.6250000 energy error: -3.783513e-03
+time:  5.6250000 energy error: -3.783513e-03
+time:  5.6250000 energy error: -3.783513e-03
+time:  5.7500000 energy error: -4.190721e-03
+time:  5.7500000 energy error: -4.190721e-03
+time:  5.7500000 energy error: -4.190721e-03
+time:  5.7500000 energy error: -4.190721e-03
+time:  5.7500000 energy error: -4.190721e-03
+time:  5.7500000 energy error: -4.190721e-03
+time:  5.7500000 energy error: -4.190721e-03
+time:  5.7500000 energy error: -4.190721e-03
+time:  5.8750000 energy error: -6.848756e-03
+time:  5.8750000 energy error: -6.848756e-03
+time:  5.8750000 energy error: -6.848756e-03
+time:  5.8750000 energy error: -6.848756e-03
+time:  5.8750000 energy error: -6.848756e-03
+time:  5.8750000 energy error: -6.848756e-03
+time:  5.8750000 energy error: -6.848756e-03
+time:  5.8750000 energy error: -6.848756e-03
+time:  6.0000000 energy error: -5.681958e-03
+time:  6.0000000 energy error: -5.681958e-03
+time:  6.0000000 energy error: -5.681958e-03
+time:  6.0000000 energy error: -5.681958e-03
+time:  6.0000000 energy error: -5.681958e-03
+time:  6.0000000 energy error: -5.681958e-03
+time:  6.0000000 energy error: -5.681958e-03
+time:  6.0000000 energy error: -5.681958e-03
+time:  6.1250000 energy error: -3.882013e-03
+time:  6.1250000 energy error: -3.882013e-03
+time:  6.1250000 energy error: -3.882013e-03
+time:  6.1250000 energy error: -3.882013e-03
+time:  6.1250000 energy error: -3.882013e-03
+time:  6.1250000 energy error: -3.882013e-03
+time:  6.1250000 energy error: -3.882013e-03
+time:  6.1250000 energy error: -3.882013e-03
+time:  6.2500000 energy error: -4.972070e-03
+time:  6.2500000 energy error: -4.972070e-03
+time:  6.2500000 energy error: -4.972070e-03
+time:  6.2500000 energy error: -4.972070e-03
+time:  6.2500000 energy error: -4.972070e-03
+time:  6.2500000 energy error: -4.972070e-03
+time:  6.2500000 energy error: -4.972070e-03
+time:  6.2500000 energy error: -4.972070e-03
+time:  6.3750000 energy error: -3.855842e-03
+time:  6.3750000 energy error: -3.855842e-03
+time:  6.3750000 energy error: -3.855842e-03
+time:  6.3750000 energy error: -3.855842e-03
+time:  6.3750000 energy error: -3.855842e-03
+time:  6.3750000 energy error: -3.855842e-03
+time:  6.3750000 energy error: -3.855842e-03
+time:  6.3750000 energy error: -3.855842e-03
+time:  6.5000000 energy error: -3.572900e-03
+time:  6.5000000 energy error: -3.572900e-03
+time:  6.5000000 energy error: -3.572900e-03
+time:  6.5000000 energy error: -3.572900e-03
+time:  6.5000000 energy error: -3.572900e-03
+time:  6.5000000 energy error: -3.572900e-03
+time:  6.5000000 energy error: -3.572900e-03
+time:  6.5000000 energy error: -3.572900e-03
+time:  6.6250000 energy error: -3.460960e-03
+time:  6.6250000 energy error: -3.460960e-03
+time:  6.6250000 energy error: -3.460960e-03
+time:  6.6250000 energy error: -3.460960e-03
+time:  6.6250000 energy error: -3.460960e-03
+time:  6.6250000 energy error: -3.460960e-03
+time:  6.6250000 energy error: -3.460960e-03
+time:  6.6250000 energy error: -3.460960e-03
+time:  6.7500000 energy error: -3.730085e-03
+time:  6.7500000 energy error: -3.730085e-03
+time:  6.7500000 energy error: -3.730085e-03
+time:  6.7500000 energy error: -3.730085e-03
+time:  6.7500000 energy error: -3.730085e-03
+time:  6.7500000 energy error: -3.730085e-03
+time:  6.7500000 energy error: -3.730085e-03
+time:  6.7500000 energy error: -3.730085e-03
+time:  6.8750000 energy error: -3.954344e-03
+time:  6.8750000 energy error: -3.954344e-03
+time:  6.8750000 energy error: -3.954344e-03
+time:  6.8750000 energy error: -3.954344e-03
+time:  6.8750000 energy error: -3.954344e-03
+time:  6.8750000 energy error: -3.954344e-03
+time:  6.8750000 energy error: -3.954344e-03
+time:  6.8750000 energy error: -3.954344e-03
+time:  7.0000000 energy error: -4.130487e-03
+time:  7.0000000 energy error: -4.130487e-03
+time:  7.0000000 energy error: -4.130487e-03
+time:  7.0000000 energy error: -4.130487e-03
+time:  7.0000000 energy error: -4.130487e-03
+time:  7.0000000 energy error: -4.130487e-03
+time:  7.0000000 energy error: -4.130487e-03
+time:  7.0000000 energy error: -4.130487e-03
+time:  7.1250000 energy error: -4.041101e-03
+time:  7.1250000 energy error: -4.041101e-03
+time:  7.1250000 energy error: -4.041101e-03
+time:  7.1250000 energy error: -4.041101e-03
+time:  7.1250000 energy error: -4.041101e-03
+time:  7.1250000 energy error: -4.041101e-03
+time:  7.1250000 energy error: -4.041101e-03
+time:  7.1250000 energy error: -4.041101e-03
+time:  7.2500000 energy error: -4.032606e-03
+time:  7.2500000 energy error: -4.032606e-03
+time:  7.2500000 energy error: -4.032606e-03
+time:  7.2500000 energy error: -4.032606e-03
+time:  7.2500000 energy error: -4.032606e-03
+time:  7.2500000 energy error: -4.032606e-03
+time:  7.2500000 energy error: -4.032606e-03
+time:  7.2500000 energy error: -4.032606e-03
+time:  7.3750000 energy error: -4.050535e-03
+time:  7.3750000 energy error: -4.050535e-03
+time:  7.3750000 energy error: -4.050535e-03
+time:  7.3750000 energy error: -4.050535e-03
+time:  7.3750000 energy error: -4.050535e-03
+time:  7.3750000 energy error: -4.050535e-03
+time:  7.3750000 energy error: -4.050535e-03
+time:  7.3750000 energy error: -4.050535e-03
+time:  7.5000000 energy error: -4.127816e-03
+time:  7.5000000 energy error: -4.127816e-03
+time:  7.5000000 energy error: -4.127816e-03
+time:  7.5000000 energy error: -4.127816e-03
+time:  7.5000000 energy error: -4.127816e-03
+time:  7.5000000 energy error: -4.127816e-03
+time:  7.5000000 energy error: -4.127816e-03
+time:  7.5000000 energy error: -4.127816e-03
+time:  7.6250000 energy error: -3.933569e-03
+time:  7.6250000 energy error: -3.933569e-03
+time:  7.6250000 energy error: -3.933569e-03
+time:  7.6250000 energy error: -3.933569e-03
+time:  7.6250000 energy error: -3.933569e-03
+time:  7.6250000 energy error: -3.933569e-03
+time:  7.6250000 energy error: -3.933569e-03
+time:  7.6250000 energy error: -3.933569e-03
+time:  7.7500000 energy error: -4.113482e-03
+time:  7.7500000 energy error: -4.113482e-03
+time:  7.7500000 energy error: -4.113482e-03
+time:  7.7500000 energy error: -4.113482e-03
+time:  7.7500000 energy error: -4.113482e-03
+time:  7.7500000 energy error: -4.113482e-03
+time:  7.7500000 energy error: -4.113482e-03
+time:  7.7500000 energy error: -4.113482e-03
+time:  7.8750000 energy error: -3.976017e-03
+time:  7.8750000 energy error: -3.976017e-03
+time:  7.8750000 energy error: -3.976017e-03
+time:  7.8750000 energy error: -3.976017e-03
+time:  7.8750000 energy error: -3.976017e-03
+time:  7.8750000 energy error: -3.976017e-03
+time:  7.8750000 energy error: -3.976017e-03
+time:  7.8750000 energy error: -3.976017e-03
+time:  8.0000000 energy error: -4.155743e-03
+time:  8.0000000 energy error: -4.155743e-03
+time:  8.0000000 energy error: -4.155743e-03
+time:  8.0000000 energy error: -4.155743e-03
+time:  8.0000000 energy error: -4.155743e-03
+time:  8.0000000 energy error: -4.155743e-03
+time:  8.0000000 energy error: -4.155743e-03
+time:  8.0000000 energy error: -4.155743e-03
+time:  8.1250000 energy error: -3.958628e-03
+time:  8.1250000 energy error: -3.958628e-03
+time:  8.1250000 energy error: -3.958628e-03
+time:  8.1250000 energy error: -3.958628e-03
+time:  8.1250000 energy error: -3.958628e-03
+time:  8.1250000 energy error: -3.958628e-03
+time:  8.1250000 energy error: -3.958628e-03
+time:  8.1250000 energy error: -3.958628e-03
+time:  8.2500000 energy error: -4.113192e-03
+time:  8.2500000 energy error: -4.113192e-03
+time:  8.2500000 energy error: -4.113192e-03
+time:  8.2500000 energy error: -4.113192e-03
+time:  8.2500000 energy error: -4.113192e-03
+time:  8.2500000 energy error: -4.113192e-03
+time:  8.2500000 energy error: -4.113192e-03
+time:  8.2500000 energy error: -4.113192e-03
+time:  8.3750000 energy error: -3.860054e-03
+time:  8.3750000 energy error: -3.860054e-03
+time:  8.3750000 energy error: -3.860054e-03
+time:  8.3750000 energy error: -3.860054e-03
+time:  8.3750000 energy error: -3.860054e-03
+time:  8.3750000 energy error: -3.860054e-03
+time:  8.3750000 energy error: -3.860054e-03
+time:  8.3750000 energy error: -3.860054e-03
+time:  8.5000000 energy error: -3.636676e-03
+time:  8.5000000 energy error: -3.636676e-03
+time:  8.5000000 energy error: -3.636676e-03
+time:  8.5000000 energy error: -3.636676e-03
+time:  8.5000000 energy error: -3.636676e-03
+time:  8.5000000 energy error: -3.636676e-03
+time:  8.5000000 energy error: -3.636676e-03
+time:  8.5000000 energy error: -3.636676e-03
+time:  8.6250000 energy error: -4.032662e-03
+time:  8.6250000 energy error: -4.032662e-03
+time:  8.6250000 energy error: -4.032662e-03
+time:  8.6250000 energy error: -4.032662e-03
+time:  8.6250000 energy error: -4.032662e-03
+time:  8.6250000 energy error: -4.032662e-03
+time:  8.6250000 energy error: -4.032662e-03
+time:  8.6250000 energy error: -4.032662e-03
+time:  8.7500000 energy error: -3.928178e-03
+time:  8.7500000 energy error: -3.928178e-03
+time:  8.7500000 energy error: -3.928178e-03
+time:  8.7500000 energy error: -3.928178e-03
+time:  8.7500000 energy error: -3.928178e-03
+time:  8.7500000 energy error: -3.928178e-03
+time:  8.7500000 energy error: -3.928178e-03
+time:  8.7500000 energy error: -3.928178e-03
+time:  8.8750000 energy error: -4.007793e-03
+time:  8.8750000 energy error: -4.007793e-03
+time:  8.8750000 energy error: -4.007793e-03
+time:  8.8750000 energy error: -4.007793e-03
+time:  8.8750000 energy error: -4.007793e-03
+time:  8.8750000 energy error: -4.007793e-03
+time:  8.8750000 energy error: -4.007793e-03
+time:  8.8750000 energy error: -4.007793e-03
+time:  9.0000000 energy error: -4.038302e-03
+time:  9.0000000 energy error: -4.038302e-03
+time:  9.0000000 energy error: -4.038302e-03
+time:  9.0000000 energy error: -4.038302e-03
+time:  9.0000000 energy error: -4.038302e-03
+time:  9.0000000 energy error: -4.038302e-03
+time:  9.0000000 energy error: -4.038302e-03
+time:  9.0000000 energy error: -4.038302e-03
+time:  9.1250000 energy error: -3.706773e-03
+time:  9.1250000 energy error: -3.706773e-03
+time:  9.1250000 energy error: -3.706773e-03
+time:  9.1250000 energy error: -3.706773e-03
+time:  9.1250000 energy error: -3.706773e-03
+time:  9.1250000 energy error: -3.706773e-03
+time:  9.1250000 energy error: -3.706773e-03
+time:  9.1250000 energy error: -3.706773e-03
+time:  9.2500000 energy error: -3.979934e-03
+time:  9.2500000 energy error: -3.979934e-03
+time:  9.2500000 energy error: -3.979934e-03
+time:  9.2500000 energy error: -3.979934e-03
+time:  9.2500000 energy error: -3.979934e-03
+time:  9.2500000 energy error: -3.979934e-03
+time:  9.2500000 energy error: -3.979934e-03
+time:  9.2500000 energy error: -3.979934e-03
+time:  9.3750000 energy error: -3.693813e-03
+time:  9.3750000 energy error: -3.693813e-03
+time:  9.3750000 energy error: -3.693813e-03
+time:  9.3750000 energy error: -3.693813e-03
+time:  9.3750000 energy error: -3.693813e-03
+time:  9.3750000 energy error: -3.693813e-03
+time:  9.3750000 energy error: -3.693813e-03
+time:  9.3750000 energy error: -3.693813e-03
+time:  9.5000000 energy error: -3.804613e-03
+time:  9.5000000 energy error: -3.804613e-03
+time:  9.5000000 energy error: -3.804613e-03
+time:  9.5000000 energy error: -3.804613e-03
+time:  9.5000000 energy error: -3.804613e-03
+time:  9.5000000 energy error: -3.804613e-03
+time:  9.5000000 energy error: -3.804613e-03
+time:  9.5000000 energy error: -3.804613e-03
+time:  9.6250000 energy error: -3.971132e-03
+time:  9.6250000 energy error: -3.971132e-03
+time:  9.6250000 energy error: -3.971132e-03
+time:  9.6250000 energy error: -3.971132e-03
+time:  9.6250000 energy error: -3.971132e-03
+time:  9.6250000 energy error: -3.971132e-03
+time:  9.6250000 energy error: -3.971132e-03
+time:  9.6250000 energy error: -3.971132e-03
+time:  9.7500000 energy error: -3.822299e-03
+time:  9.7500000 energy error: -3.822299e-03
+time:  9.7500000 energy error: -3.822299e-03
+time:  9.7500000 energy error: -3.822299e-03
+time:  9.7500000 energy error: -3.822299e-03
+time:  9.7500000 energy error: -3.822299e-03
+time:  9.7500000 energy error: -3.822299e-03
+time:  9.7500000 energy error: -3.822299e-03
+time:  9.8750000 energy error: -3.884271e-03
+time:  9.8750000 energy error: -3.884271e-03
+time:  9.8750000 energy error: -3.884271e-03
+time:  9.8750000 energy error: -3.884271e-03
+time:  9.8750000 energy error: -3.884271e-03
+time:  9.8750000 energy error: -3.884271e-03
+time:  9.8750000 energy error: -3.884271e-03
+time:  9.8750000 energy error: -3.884271e-03
+******** FDPS has successfully finished. ********
+******** FDPS has successfully finished. ********
+******** FDPS has successfully finished. ********
+******** FDPS has successfully finished. ********
+******** FDPS has successfully finished. ********
+******** FDPS has successfully finished. ********
+******** FDPS has successfully finished. ********
+******** FDPS has successfully finished. ********
+Application 483743 resources: utime ~72s, stime ~2s, Rss ~9204, inblocks ~0, outblocks ~4448
