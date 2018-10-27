@@ -10,4 +10,4 @@ cd $PBS_O_WORKDIR
 
 #export OMP_NUM_THREADS=4
 #export OMP_STACKSIZE=512M
-aprun -n 8 -N 4  -d ${OMP_NUM_THREADS}  ./nbody.out -N 10000
+aprun -n 8 -N 4  -d ${OMP_NUM_THREADS}  ./nbody.out -N 1000

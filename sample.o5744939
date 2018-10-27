@@ -1,0 +1,116 @@
+     //==================================\\n_tot = n_tot = n_tot = 
+     ||                                  ||
+10000     || ::::::: ::::::. ::::::. .::::::. ||
+
+     || ::      ::    : ::    : ::       ||10000
+10000
+
+     || ::::::  ::    : ::::::'  `:::::. ||
+     || ::      ::::::' ::      `......' ||
+     ||     Framework for Developing     ||
+     ||        Particle Simulator        ||
+     ||     Version 2.0 (2016/06)        ||
+     \\==================================//
+
+       Home   : https://github.com/fdps/fdps 
+       E-mail : fdps-support@mail.jmlab.jp
+       Licence: MIT (see, https://github.com/FDPS/FDPS/blob/master/LICENSE)
+       Note   : Please cite Iwasawa et al. (in press.)
+
+       Copyright (C) 2015 
+         Masaki Iwasawa, Ataru Tanikawa, Natsuki Hosono,
+         Keigo Nitadori, Takayuki Muranushi, Daisuke Namekata
+         Junichiro Makino and many others
+******** FDPS has successfully begun. ********
+n_tot = 10000
+n_tot = n_tot = n_tot = n_tot = 1000010000
+
+10000
+10000
+This is a sample program of N-body simulation on FDPS!
+Number of processes: 8
+Number of threads per process: 1
+np_ave=1250
+used mem size for tree(3)=0.009038848[GB]
+time:  0.0000000 energy error: -0.000000e+00
+time:  0.1250000 energy error: -4.698240e-06
+time:  0.2500000 energy error: -6.203942e-06
+time:  0.3750000 energy error: -1.135117e-05
+time:  0.5000000 energy error: -1.447228e-05
+time:  0.6250000 energy error: -2.001609e-05
+time:  0.7500000 energy error: -3.010819e-05
+time:  0.8750000 energy error: -3.960751e-05
+time:  1.0000000 energy error: -4.917556e-05
+time:  1.1250000 energy error: -6.052784e-05
+time:  1.2500000 energy error: -7.419295e-05
+time:  1.3750000 energy error: -8.669835e-05
+time:  1.5000000 energy error: -1.057382e-04
+time:  1.6250000 energy error: -1.231828e-04
+time:  1.7500000 energy error: -1.495919e-04
+time:  1.8750000 energy error: -1.757939e-04
+time:  2.0000000 energy error: -2.003509e-04
+time:  2.1250000 energy error: -2.274808e-04
+time:  2.2500000 energy error: -2.581946e-04
+time:  2.3750000 energy error: -2.834029e-04
+time:  2.5000000 energy error: -3.215098e-04
+time:  2.6250000 energy error: -3.657597e-04
+time:  2.7500000 energy error: -4.001884e-04
+time:  2.8750000 energy error: -4.420283e-04
+time:  3.0000000 energy error: -4.831744e-04
+time:  3.1250000 energy error: -5.318095e-04
+time:  3.2500000 energy error: -5.921756e-04
+time:  3.3750000 energy error: -6.648316e-04
+time:  3.5000000 energy error: -7.383790e-04
+time:  3.6250000 energy error: -8.169958e-04
+time:  3.7500000 energy error: -9.113372e-04
+time:  3.8750000 energy error: -1.009679e-03
+time:  4.0000000 energy error: -1.126084e-03
+time:  4.1250000 energy error: -1.242357e-03
+time:  4.2500000 energy error: -1.391127e-03
+time:  4.3750000 energy error: -1.564302e-03
+time:  4.5000000 energy error: -1.772225e-03
+time:  4.6250000 energy error: -2.030569e-03
+time:  4.7500000 energy error: -2.320718e-03
+time:  4.8750000 energy error: -2.710153e-03
+time:  5.0000000 energy error: -3.148588e-03
+time:  5.1250000 energy error: -3.754014e-03
+time:  5.2500000 energy error: -4.629620e-03
+time:  5.3750000 energy error: -5.787541e-03
+time:  5.5000000 energy error: -7.629766e-03
+time:  5.6250000 energy error: -1.103436e-02
+time:  5.7500000 energy error: -1.631954e-02
+time:  5.8750000 energy error: +3.587404e-03
+time:  6.0000000 energy error: -9.052997e-03
+time:  6.1250000 energy error: -6.082827e-03
+time:  6.2500000 energy error: -6.093567e-03
+time:  6.3750000 energy error: -6.069822e-03
+time:  6.5000000 energy error: -5.816533e-03
+time:  6.6250000 energy error: -6.299603e-03
+time:  6.7500000 energy error: -6.170430e-03
+time:  6.8750000 energy error: -5.883060e-03
+time:  7.0000000 energy error: -6.058110e-03
+time:  7.1250000 energy error: -5.883104e-03
+time:  7.2500000 energy error: -6.162562e-03
+time:  7.3750000 energy error: -6.339611e-03
+time:  7.5000000 energy error: -6.245150e-03
+time:  7.6250000 energy error: -6.274017e-03
+time:  7.7500000 energy error: -6.276632e-03
+time:  7.8750000 energy error: -5.761025e-03
+time:  8.0000000 energy error: -6.221284e-03
+time:  8.1250000 energy error: -6.388920e-03
+time:  8.2500000 energy error: -6.179395e-03
+time:  8.3750000 energy error: -6.674812e-03
+time:  8.5000000 energy error: -6.706570e-03
+time:  8.6250000 energy error: -6.369355e-03
+time:  8.7500000 energy error: -6.771844e-03
+time:  8.8750000 energy error: -6.799173e-03
+time:  9.0000000 energy error: -6.624944e-03
+time:  9.1250000 energy error: -6.834525e-03
+time:  9.2500000 energy error: -6.743784e-03
+time:  9.3750000 energy error: -6.936516e-03
+time:  9.5000000 energy error: -6.987360e-03
+time:  9.6250000 energy error: -7.000197e-03
+time:  9.7500000 energy error: -6.981970e-03
+time:  9.8750000 energy error: -6.964499e-03
+******** FDPS has successfully finished. ********
+Application 739975 resources: utime ~320s, stime ~2s, Rss ~26236, inblocks ~0, outblocks ~13064

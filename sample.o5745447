@@ -1,0 +1,38 @@
+n_tot =      //==================================\\n_tot = n_tot = 
+     ||                                  ||1000
+
+     || ::::::: ::::::. ::::::. .::::::. ||1000
+     || ::      ::    : ::    : ::       ||
+1000
+
+     || ::::::  ::    : ::::::'  `:::::. ||
+     || ::      ::::::' ::      `......' ||
+     ||     Framework for Developing     ||
+     ||        Particle Simulator        ||
+     ||     Version 2.0 (2016/06)        ||
+     \\==================================//
+
+       Home   : https://github.com/fdps/fdps 
+       E-mail : fdps-support@mail.jmlab.jp
+       Licence: MIT (see, https://github.com/FDPS/FDPS/blob/master/LICENSE)
+       Note   : Please cite Iwasawa et al. (in press.)
+
+       Copyright (C) 2015 
+         Masaki Iwasawa, Ataru Tanikawa, Natsuki Hosono,
+         Keigo Nitadori, Takayuki Muranushi, Daisuke Namekata
+         Junichiro Makino and many others
+******** FDPS has successfully begun. ********
+n_tot = 1000
+n_tot = n_tot = n_tot = n_tot = 10001000
+1000
+1000
+
+This is a sample program of N-body simulation on FDPS!
+Number of processes: 8
+Number of threads per process: 1
+SetParticleKeplerDisk Beg
+aprun: Apid 741011: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 00026] [c0-0c0s6n2] [Sat Oct 27 12:09:33 2018] PE RANK 1 exit signal Terminated
+_pmiu_daemon(SIGCHLD): [NID 00027] [c0-0c0s6n3] [Sat Oct 27 12:09:33 2018] PE RANK 6 exit signal Terminated
+Application 741011 exit codes: 143
+Application 741011 resources: utime ~5535s, stime ~17s, Rss ~10116, inblocks ~0, outblocks ~0

@@ -1,4 +1,4 @@
-PS_PATH = ../../../src/
+PS_PATH = ../../FDPS/src/
 INC = -I$(PS_PATH)
 
 #CC = time g++
@@ -10,7 +10,7 @@ CFLAGS = -O3
 #CFLAGS += -funroll-loops
 CFLAGS += -DPARTICLE_SIMULATOR_THREAD_PARALLEL
 CFLAGS += -fopenmp
-#CFLAGS += -DPARTICLE_SIMULATOR_MPI_PARALLEL
+CFLAGS += -DPARTICLE_SIMULATOR_MPI_PARALLEL
 
 #use_phantom_grape_x86 = yes
 #use_gpu_cuda = yes
@@ -35,7 +35,7 @@ force_gpu_cuda.o:force_gpu_cuda.cu
 OBJS = force_gpu_cuda.o
 endif
 
-nbody.out:nbody.cpp $(OBJS)
+nbody.out:nbody.cc $(OBJS)
 	$(CC) $(INC) $(CFLAGS) -o $@ $^ $(CLIBS)
 
 clean:	
